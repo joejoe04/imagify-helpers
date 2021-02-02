@@ -10,4 +10,4 @@ To be used with:
 
 Last tested with:
 * Imagify 1.9.x
-* WordPress 5.5.x
+* WordPress 5.6.x
