@@ -1,6 +1,6 @@
-# Imagify | Keep Attributes On `<img>` Tags
+# Imagify | Keep Attributes On \<img\> Tags
 
-Keeps attributes on `<img>` tag rather than moving them to `<picture>` tag.
+Keeps attributes on `<img>` tags rather than moving them to `<picture>` tags.
 
 🚧 **ADVANCED CUSTOMIZATION, HANDLE WITH CARE!**
 
