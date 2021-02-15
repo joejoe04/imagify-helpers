@@ -11,5 +11,5 @@ To be used with:
 * any setup using Imagify's "Use `<picture>` tags" option for WebP display, where it is preferred that the attributes on the original `<img>` tags remain on the `<img>` tags after `<picture>` tag replacement has been done.
 
 Last tested with:
-* Imagify 1.9.
+* Imagify 1.9.x
 * WordPress 5.6.x
