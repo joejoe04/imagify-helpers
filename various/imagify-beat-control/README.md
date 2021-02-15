@@ -15,5 +15,5 @@ To be used with:
 * any setup where memory resource usage needs to be conserved.
 
 Last tested with:
-* Imagify 1.9.
+* Imagify 1.9.x
 * WordPress 5.6.x
