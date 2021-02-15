@@ -11,5 +11,5 @@ To be used with:
 * any setup getting "File could not be moved to its final destination" or "directory now writable" errors when optimization is attempted.
 
 Last tested with:
-* Imagify 1.9.
+* Imagify 1.9.x
 * WordPress 5.6.x
