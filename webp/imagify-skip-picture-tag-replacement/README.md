@@ -17,5 +17,5 @@ To be used with:
 * Any setup where WebP image display is needed, using the "Use rewrite rules" option is not possible, and the "Use `<picture>` tags" option is causing some images not to display.
 
 Last tested with:
-* Imagify 1.9.
+* Imagify 1.9.x
 * WordPress 5.6.x
