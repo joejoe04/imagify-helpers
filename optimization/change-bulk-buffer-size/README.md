@@ -13,5 +13,5 @@ To be used with:
 * any setup where image optimization is leading to server timeout and/or cURL errors.
 
 Last tested with:
-* Imagify 1.9.
+* Imagify 1.9.x
 * WordPress 5.6.x
